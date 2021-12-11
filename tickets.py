@@ -8,7 +8,7 @@ import traceback
 import time, sys
 
 class huoche(object):
-	"""docstring for huoche"""
+	"""docstring for huoche"""//
 	driver_name=''
 	executable_path=''
 	#用户名，密码
